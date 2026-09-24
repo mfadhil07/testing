@@ -1,4 +1,4 @@
-import { ArrowDown, Flower2, Heart, Sparkles, Stars } from "lucide-react";
+import { Flower2, Heart, Sparkles, Stars } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 import StoryCounter from "../StoryCounter";

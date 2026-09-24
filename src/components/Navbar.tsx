@@ -1,6 +1,5 @@
 import { useState } from "react";
 import {
-  CalendarDays,
   Camera,
   Gift,
   Heart,
