@@ -3,8 +3,8 @@ import { useEffect, useState } from "react";
 import StoryProgress from "../components/StoryProgress";
 
 import HeroSlide from "../components/slides/HeroSLider";
-
 import AboutSlide from "../components/slides/AboutSlide";
+import HarapanSlide from "../components/slides/HarapanSlide";
 
 function Home() {
   const [currentSlide, setCurrentSlide] = useState(1);
@@ -44,6 +44,9 @@ function Home() {
 
       <div data-story-slide="2">
         <AboutSlide />
+      </div>
+      <div data-story-slide="3">
+        <HarapanSlide />
       </div>
     </div>
   );
