@@ -143,8 +143,8 @@ function HarapanSlide() {
                   viewport={{ once: true }}
                   transition={{ delay: 0.3 }}
                 >
-                  Terima kasih karena sudah mau menjalin hubungan yang serius
-                  sama aku.
+                  Terima kasih yaa Ayuuu karena sudah mau menjalin hubungan yang
+                  serius sama aku.
                 </motion.p>
 
                 <motion.p
@@ -154,9 +154,9 @@ function HarapanSlide() {
                   transition={{ delay: 0.4 }}
                 >
                   Aku tahu, mungkin selama ini aku belum menjadi laki-laki yang
-                  selalu peka. Aku juga bukan orang yang paling romantis, dan
-                  masih banyak hal yang mungkin belum bisa aku lakukan untuk
-                  kamu.
+                  selalu peka. Aku juga bukan orang yang romantis, selalu spam
+                  chat ke ayu dan masih banyak hal yang mungkin belum bisa aku
+                  lakukan untuk Ayuu.
                 </motion.p>
 
                 <motion.p
@@ -166,8 +166,8 @@ function HarapanSlide() {
                   transition={{ delay: 0.5 }}
                 >
                   Apalagi kita harus menjalani hubungan jarak jauh. Aku nggak
-                  bisa selalu ada di samping kamu, nggak bisa setiap saat
-                  menemani kamu, atau sekadar mengajak kamu jalan dan
+                  bisa selalu ada di samping Ayuu, nggak bisa setiap minggu
+                  ketemuan sama Ayuu, atau sekadar mengajak Ayuu jalan dan
                   menghabiskan waktu bersama.
                 </motion.p>
 
@@ -178,7 +178,7 @@ function HarapanSlide() {
                   transition={{ delay: 0.6 }}
                 >
                   Maaf kalau terkadang aku masih kurang menunjukkan rasa
-                  sayangku dengan cara yang kamu harapkan.
+                  sayangku dengan cara yang Ayuu harapkan.
                 </motion.p>
 
                 <motion.p
@@ -188,7 +188,7 @@ function HarapanSlide() {
                   transition={{ delay: 0.7 }}
                 >
                   Tapi satu hal yang ingin kamu tahu, aku menghargai hubungan
-                  ini dan aku serius menjalaninya sama kamu.
+                  ini dan aku serius menjalaninya sama Ayuu.
                 </motion.p>
               </div>
 
@@ -207,7 +207,21 @@ function HarapanSlide() {
                 />
 
                 <p className="font-serif text-lg leading-7 text-white sm:text-xl">
-                  “Terima kasih sudah memilih untuk tetap berjalan bersamaku.”
+                  “Terima kasih, sayang, sudah memilih untuk tetap menghargai
+                  dan menjalani hubungan ini bersamaku. Aku tahu hubungan kita
+                  mungkin nggak selalu mudah, apalagi dengan jarak dan segala
+                  keterbatasan yang ada. Tapi aku berharap kita selalu bisa
+                  saling memahami, saling mendukung, dan terus belajar menjadi
+                  lebih baik untuk satu sama lain. Aku mungkin belum selalu bisa
+                  menjadi pasangan yang sempurna. Masih ada banyak hal yang
+                  perlu aku perbaiki, terutama dalam menunjukkan rasa sayang dan
+                  perhatian kepadamu. Tapi aku ingin kamu tahu bahwa aku serius
+                  dengan hubungan ini dan akan selalu berusaha menjaganya sebaik
+                  yang aku bisa. Aku sayang sama kamu, Ayu. Dan kalau kamu masih
+                  memberi aku kesempatan, aku ingin terus berjalan bersamamu,
+                  melewati banyak hal, sampai suatu hari nanti kita bisa melihat
+                  kembali perjalanan ini dan tersenyum karena pernah memilih
+                  satu sama lain.”
                 </p>
               </motion.div>
 
