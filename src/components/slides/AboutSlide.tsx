@@ -4,13 +4,13 @@ import { useEffect, useState } from "react";
 import StoryCounter from "../StoryCounter";
 
 const photos = [
-  "/photos/ayu-1.JPG",
+  "/photos/13.jpg",
   "/photos/ayu-2.JPG",
   "/photos/ayu-3.JPG",
   "/photos/ayu-4.JPG",
   "/photos/ayu-5.jpg",
   "/photos/ayu-6.jpg",
-  "/photos/ayu-7.JPG",
+  "/photos/11.jpg",
   "/photos/ayu-8.JPG",
 ];
 
